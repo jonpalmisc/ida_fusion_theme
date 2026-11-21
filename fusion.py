@@ -1,6 +1,6 @@
 import ida_idaapi
 
-from PyQt5.QtWidgets import QApplication
+from PySide6.QtWidgets import QApplication
 
 
 class fusion_style_plugin_t(ida_idaapi.plugin_t):
